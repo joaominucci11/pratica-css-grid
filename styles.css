@@ -165,13 +165,10 @@ img
 .dentro {
     margin-top: 150px;
     margin-left: 15px;
-    font-size: 56px;
-    line-height: 100%;
+    font-size: 40px;
+
 }
  
-.dentro img {
-    width: 30px;
-}
 
 .fora{
     margin-top: 130px;
@@ -180,7 +177,7 @@ img
 }
 
 .ct{
-    font-size: 10px;
+    font-size: 14px;
     line-height: 10px;
     margin-top: 30px;
     margin-left: 20px;
@@ -189,6 +186,25 @@ img
 .ctt{
     font-size: 40px;
     line-height: 10px;
-    margin-top: 170px;
+    margin-top: 150px;
     margin-left: 20px;
+}
+.aw{
+    width: 30px;
+    margin-left: 330px;
+    margin-top: -25px;
+
+}
+
+.op{
+    width: 170px;
+    margin-top: -170px;
+    margin-left: 390px;
+}
+
+.ast{
+        width: 20px;
+        margin-top: -180px;
+        line-height: 200px;
+
 }
